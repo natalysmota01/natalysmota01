@@ -1,6 +1,6 @@
 ### Hello world! Eu sou Nataly Soares! Como vai você? 😀
 
-- 👩‍🎓 Análise de Sistemas
+- 👩‍🎓 Análise e Desenvolvimento de Sistemas
 - 🎓 Assistente Administrativa
 - 💻 Atualmente estudando Wordpress e ferramentas Front-end
 - 😄 Pronouns: Ela/Dela
