@@ -1,4 +1,4 @@
-### Hello world! Eu sou Nataly Soares! 😀
+### Hello world! 😀
 
 ##
 
